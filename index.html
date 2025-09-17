@@ -1,7 +1,38 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-author_profile: true
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.40"
+  overlay_image: /assets/images/splash_image.jpg
+  actions:
+    - label: "Interested? Join us on Mattermost!"
+      url: "https://mattermost.ohbm-environment.org"
+excerpt: "Environmental sustainability for the neuroimaging community"
+working_groups:
+  - title: "Annual meeting"
+    image_path: assets/images/annual_meeting_wg.jpg
+    excerpt: "Making the annual meeting sustainable and accessible by putting together engaging, impactful content."
+    url: "/working_groups/annual_meeting"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"  
+  - title: "Green computing"
+    image_path: /assets/images/green_computing_wg.jpg
+    excerpt: "Reducing the footprint of neuroimaging data collection and analyses."
+    url: "/working_groups/green_computing"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - title: "Education and outreach"
+    image_path: /assets/images/education_and_outreach_wg.jpg
+    excerpt: "Producing year-round outreach materials."
+    url: "/working_groups/education_and_outreach"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
+
+<h1>Our working groups</h1>
+
+{% include feature_row id="working_groups" %}
+
+<h1>Our team</h1>
+
