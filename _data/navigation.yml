@@ -11,3 +11,14 @@ main:
     url: /team
   - title: "About us"
     url: /about_us
+
+working_groups:
+  - title: "Annual meeting"
+    url: /working-groups/annual-meeting
+  - title: "Green computing"
+    url: /working-groups/green-computing
+    children:
+      - title: "Carbon tracker toolboxes"
+        url: /working-groups/green-computing-tools
+  - title: "Education and outreach"
+    url: /working-groups/education-and-outreach

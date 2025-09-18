@@ -5,7 +5,7 @@ title: "About us"
 header:
   overlay_color: "#000"
   overlay_filter: "0.40"
-  overlay_image: /assets/images/splash_image-forest.jpeg
+  overlay_image: /assets/images/splash_image-forest.jpg
 ---
 
 The Sustainability and Environmental Action group was formed by the Organisation for Human Brain Mapping (OHBM) in 2020 in recognition of the need to reduce the impact that the organisation and its members have on the environment.

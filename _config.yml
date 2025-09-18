@@ -116,6 +116,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _pages/working_groups
+  - scope:
+      path: "_pages/working_groups"
+    values:
+      sidebar:
+        nav: "working_groups"
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash_image-leaf.jpg
   # # default
   # - scope:
   #     path: ""
