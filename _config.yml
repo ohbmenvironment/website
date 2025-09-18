@@ -120,6 +120,7 @@ defaults:
   - scope:
       path: "_pages/working_groups"
     values:
+      classes: wide
       sidebar:
         nav: "working_groups"
       header:
