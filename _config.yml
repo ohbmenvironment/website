@@ -65,26 +65,29 @@ author:
   avatar : "/assets/images/logo.png"
   bio    : "A member of the SEA-SIG committee."
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:ohbm.sea.sig@gmail.com"
-    - label: "Website"
+    - label: "ohbm-environment.org"
       icon: "fas fa-fw fa-link"
       url: "https://ohbm-environment.org"
-    - label: "Bluesky"
+    - label: "ohbm.sea.sig@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ohbm.sea.sig@gmail.com"
+    - label: "ohbmenvironment.bsky.social"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ohbmenvironment.bsky.social"
-    - label: "GitHub"
+    - label: "ohbmenvironment"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ohbmenvironment"
 
 footer:
   since: 2025
   links:
-    - label: "Bluesky"
+    - label: "ohbm.sea.sig@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ohbm.sea.sig@gmail.com"
+    - label: "ohbmenvironment.bsky.social"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/ohbmenvironment.bsky.social"
-    - label: "GitHub"
+    - label: "ohbmenvironment"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ohbmenvironment"
 
