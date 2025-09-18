@@ -1,0 +1,7 @@
+Maria Misiura:
+  name        : "Maria Misiura"
+  avatar      : "/assets/images/people/maria_misiura.png"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?hl=en&user=PqBJhjEAAAAJ&view_op=list_works&sortby=pubdate"
