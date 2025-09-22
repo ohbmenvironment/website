@@ -1,5 +1,5 @@
 ---
-permalink: /events
+permalink: /events/
 title: "Events"
 ---
 

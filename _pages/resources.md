@@ -1,6 +1,6 @@
 ---
-title: "Resources"
-permalink: "/resources/"
+title: Resources
+permalink: /resources/
 header:
     overlay_color: "#000"
     overlay_filter: "0.40"
