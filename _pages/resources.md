@@ -4,7 +4,7 @@ permalink: "/resources/"
 header:
     overlay_color: "#000"
     overlay_filter: "0.40"
-    overlay_image: /assets/images/splash_image-leaf.jpg
+    overlay_image: /assets/images/splash_image-alps.jpg
 toc: true
 toc_sticky: true
 ---
