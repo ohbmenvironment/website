@@ -1,7 +1,5 @@
 ---
 title: "Upcoming SIG elections 2024"
-categories:
-  - news
 tags:
   - elections
 ---

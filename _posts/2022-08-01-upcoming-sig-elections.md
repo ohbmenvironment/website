@@ -1,8 +1,6 @@
 ---
 title: "Upcoming SIG elections"
 author: "Maria Misiura"
-categories:
-  - news
 tags:
   - elections
 ---

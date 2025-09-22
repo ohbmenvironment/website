@@ -1,7 +1,5 @@
 ---
 title: "Call to volunteers"
-categories:
-  - news
 ---
 
 We invite expressions of interest to join our three new Working Groups on the **Annual Meeting**, **Neuroimaging Research Pipelines**, and **Education & Outreach**. We anticipate each group will number approximately 5-10 colleagues, depending on interest to participate.

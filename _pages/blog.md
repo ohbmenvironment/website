@@ -1,5 +1,5 @@
 ---
-layout: single_category_archive
-category: news
+layout: posts
 permalink: /blog/
+title: News
 ---

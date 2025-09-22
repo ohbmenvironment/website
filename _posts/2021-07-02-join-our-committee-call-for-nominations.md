@@ -1,7 +1,5 @@
 ---
 title: "Join our committee – call for nominations"
-categories:
-  - news
 tags:
   - elections
 ---
