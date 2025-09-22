@@ -127,11 +127,16 @@ defaults:
         overlay_color: "#000"
         overlay_filter: "0.40"
         overlay_image: /assets/images/splash_image-leaf.jpg
-  # # default
-  # - scope:
-  #     path: ""
-  #   values:
-  #     author_profile: false
+  - scope:
+      path: "_pages/events"
+    values:
+      classes: wide
+      sidebar:
+        nav: "events"
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash_image-map.png
 
 category_archive:
   type: liquid
