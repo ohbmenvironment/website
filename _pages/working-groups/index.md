@@ -1,6 +1,6 @@
 ---
-permalink: /working_groups
-title: "Working groups"
+permalink: /working-groups/
+title: Working groups
 ---
 
 Preserving our planet is a collective need so we believe that community-based action is an important part of any solution.

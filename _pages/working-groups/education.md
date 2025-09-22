@@ -1,9 +1,7 @@
 ---
-permalink: /working-groups/education-and-outreach
-title: "Education and outreach working group"
+permalink: /education/
+title: Education and outreach working group
 ---
-
-
 
 Chair: Ryann Tansey
 

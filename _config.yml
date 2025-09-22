@@ -116,17 +116,18 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _pages/working_groups
+  # _pages/working-groups
   - scope:
-      path: "_pages/working_groups"
+      path: "_pages/working-groups"
     values:
       classes: wide
       sidebar:
-        nav: "working_groups"
+        nav: "working-groups"
       header:
         overlay_color: "#000"
         overlay_filter: "0.40"
         overlay_image: /assets/images/splash_image-leaf.jpg
+  # _pages/events
   - scope:
       path: "_pages/events"
     values:

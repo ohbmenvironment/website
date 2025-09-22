@@ -1,7 +1,7 @@
 ---
 layout: splash
-permalink: /about_us
-title: "About us"
+permalink: /scope/
+title: About us
 header:
   overlay_color: "#000"
   overlay_filter: "0.40"

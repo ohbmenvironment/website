@@ -1,6 +1,6 @@
 ---
-permalink: /working-groups/green-computing-tools
-title: "Carbon tracker toolboxes"
+permalink: /carbon-tracker-toolboxes/
+title: Carbon tracker toolboxes
 ---
 
 # How to track the carbon footprint of your computational pipeline

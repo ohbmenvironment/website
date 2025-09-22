@@ -1,6 +1,6 @@
 ---
-permalink: /working-groups/green-computing
-title: "Green computing working group"
+permalink: /neuroimaging-research-pipelines-group/
+title: Green computing working group
 ---
 
 Chair: Nick Souter
