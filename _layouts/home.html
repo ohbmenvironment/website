@@ -1,8 +1,11 @@
 ---
 layout: splash
+author_profile: false
 ---
 
-{{ content }}
+<h1>Our working groups</h1>
+
+{% include feature_row id="working-groups" %}
 
 <h1>{{ site.data.ui-text[site.locale].recent_posts | default: "Latest news" }}</h1>
 
@@ -15,3 +18,6 @@ layout: splash
 
 <a href="/blog/" class="btn btn--primary">View all</a>
 
+<hr>
+
+<h1>Our team</h1>
