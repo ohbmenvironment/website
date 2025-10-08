@@ -168,6 +168,18 @@ defaults:
         overlay_color: "#000"
         overlay_filter: "0.40"
         overlay_image: /assets/images/splash-image-map.png
+  # _pages/teams
+  - scope:
+      path: "_pages/teams"
+    values:
+      layout: team
+      classes: wide
+      sidebar:
+        nav: "teams"
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash-image-forest.jpg
 
 category_archive:
   type: liquid

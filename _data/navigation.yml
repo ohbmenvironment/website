@@ -46,3 +46,12 @@ events:
     children:
       - title: OHBM 2021
         url: /ohbm-2021/
+
+teams:
+  - title: 2025-2026
+    url: /team-2025-2026/
+  - title: 2024-2025
+    url: /team-2024-2025/
+  - title: Past members
+    url: /past-members/
+  
