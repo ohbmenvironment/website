@@ -27,7 +27,7 @@ Elisa Guma:
   avatar: "/assets/images/people/elisa-guma.jpg"
   links:
   - label: "LinkedIn"
-    icon: "fas fa-fw fa-linkedin"
+    icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/elisa-guma-32448a45/"
 
 Elvisha Dhamala:
@@ -67,7 +67,7 @@ Marie-Eve Hoeppli:
   avatar: "/assets/images/people/marie-eve-hoeppli.jpeg"
   links:
   - label: "LinkedIn"
-    icon: "fas fa-fw fa-linkedin"
+    icon: "fab fa-fw fa-linkedin"
     url: "https://www.linkedin.com/in/marie-eve-hoeppli-a19341a/"
 
 Michele Veldsman:
