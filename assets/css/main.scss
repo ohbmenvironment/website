@@ -17,6 +17,7 @@ search: false
 
 .team__wrapper {
   @extend .feature__wrapper;
+  border-bottom: none;
 }
 
 .team__item {

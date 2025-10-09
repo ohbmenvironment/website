@@ -1,7 +1,5 @@
 ---
 permalink: /team/
 title: Team
+team_id: latest
 ---
-
-See the sidebar for SEA-SIG members over the years!
-

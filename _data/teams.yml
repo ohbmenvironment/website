@@ -1,0 +1,75 @@
+latest: &latest
+- id: Thomas Hinault
+  role: Chair, Past Secretary
+- id: Anna Behler
+  role: Secretary
+- id: Maria Misiura
+  role: Treasurer
+# - id: 
+#   role: Chair-elect
+# - id: 
+#   role: Secretary-elect
+# - id: 
+#   role: Treasurer-elect
+- id: Lea Michel
+  role: Past Chair
+- id: Michelle Wang
+  role: Past Treasurer
+# - id: 
+#   role: Annual Meeting working group Chair
+- id: Nick Souter
+  role: Neuroimaging Research Pipelines working group Chair
+- id: Ryann Tansey
+  role: Education and Outreach working group Chair
+- id: Nikhil Bhagwat
+  role: Volunteer
+
+2024-2025:
+- id: Lea Michel
+  role: Chair
+- id: Thomas Hinault
+  role: Secretary, Chair-elect
+- id: Michelle Wang
+  role: Treasurer
+- id: Anna Behler
+  role: Secretary-elect
+- id: Maria Misiura
+  role: Treasurer-elect
+- id: Polona Kalc
+  role: Past Chair, Annual Meeting working group Chair
+- id: Nick Souter
+  role: Neuroimaging Research Pipelines working group Chair
+- id: Ryann Tansey
+  role: Education and Outreach working group Chair
+- id: Nikhil Bhagwat
+  role: Volunteer
+
+past-members:
+- id: Charlotte Rae
+  role: Past Chair, Founding member
+- id: Daniel Margulies
+  role: Council Liaison
+- id: Elisa Guma
+  role: Student & postdoc SIG Liaison
+- id: Elvisha Dhamala
+  role: Student & Postdoc SIG Liaison
+- id: Evelyn Medawar
+  role: Secretary
+- id: Marie-Eve Hoeppli
+  role: Treasurer
+- id: Michele Veldsman
+  role: Technology Task Force Liaison
+- id: Niall Duncan
+  role: Secretary
+- id: Nikhil Bhagwat
+  role: Treasurer
+- id: Peer Heerholz
+  role: Education & Outreach working group Chair
+- id: Sepideh Sadaghiani
+  role: Annual Meeting working group Chair
+- id: Valentina Borghesani
+  role: Brain-Art SIG Liaison
+- id: Winson Yang
+  role: Chair
+
+team: *latest

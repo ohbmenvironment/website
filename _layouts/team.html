@@ -4,5 +4,6 @@ layout: single
 
 {{ page.content }}
 
-{% include team.html team_members=page.team_members %}
+{% assign team_members = site.data.teams[page.team_id] %}
+{% include team.html team_members=team_members %}
 
