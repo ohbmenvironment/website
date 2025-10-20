@@ -13,24 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: OHBM Sustainability and Environment Action Special Interest Group
+email: ohbm.sea.sig@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  The Sustainability and Environmental Action Special Interest Group (SEA-SIG)
+  is a community-driven initiative under the Organisation for Human Brain Mapping
+  (OHBM) dedicated to promoting environmental sustainability within the
+  neuroimaging field.
+github_username: ohbmenvironment
 minimal_mistakes_skin: default
 search: true
+logo: assets/images/logo.png
+masthead_title: OHBM Sustainability and Environment Action SIG
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.27.3
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -57,37 +59,81 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# default author info
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "SEA-SIG member"
+  avatar : "/assets/images/logo.png"
+  bio    : "A member of the SEA-SIG committee."
   links:
-    - label: "Website"
+    - label: "ohbm-environment.org"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+      url: "https://ohbm-environment.org"
+    - label: "ohbm.sea.sig@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ohbm.sea.sig@gmail.com"
+    - label: "ohbmenvironment.bsky.social"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/ohbmenvironment.bsky.social"
+    - label: "OHBM SEA-SIG"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/ohbm-sustainability-environmental-action-special-interest-group-sea-sig"
+    - label: "ohbmenvironment"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ohbmenvironment"
 
 footer:
+  since: 2020
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
+    - label: "ohbm.sea.sig@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:ohbm.sea.sig@gmail.com"
+    - label: "ohbmenvironment.bsky.social"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/ohbmenvironment.bsky.social"
+    - label: "OHBM SEA-SIG"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/ohbm-sustainability-environmental-action-special-interest-group-sea-sig"
+    - label: "ohbmenvironment"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/ohbmenvironment"
+
+
+social:
+  type: Organization
+  links:
+    - "https://bsky.app/profile/ohbmenvironment.bsky.social"
 
 defaults:
+  - scope:
+      path: "index.html"
+    values:
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash-image-brain.jpg
+        actions:
+          - label: "Interested? Join us on Mattermost!"
+            url: "https://mattermost.ohbm-environment.org"
+      excerpt: "Environmental sustainability for the neuroimaging community"
+      working-groups:
+        - title: "Annual meeting"
+          image_path: assets/images/annual-meeting-wg.jpg
+          excerpt: "Making the annual meeting sustainable and accessible by putting together engaging, impactful content."
+          url: "/annual-meeting/"
+          btn_label: "Learn More"
+          btn_class: "btn--primary"  
+        - title: "Green computing"
+          image_path: /assets/images/green-computing-wg.jpg
+          excerpt: "Reducing the footprint of neuroimaging data collection and analyses."
+          url: "/neuroimaging-research-pipelines-group/"
+          btn_label: "Learn More"
+          btn_class: "btn--primary"
+        - title: "Education and outreach"
+          image_path: /assets/images/education-and-outreach-wg.jpg
+          excerpt: "Producing year-round outreach materials."
+          url: "/education/"
+          btn_label: "Learn More"
+          btn_class: "btn--primary"
   # _posts
   - scope:
       path: ""
@@ -105,7 +151,41 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+  # _pages/working-groups
+  - scope:
+      path: "_pages/working-groups"
+    values:
+      classes: wide
+      sidebar:
+        nav: "working-groups"
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash-image-leaf.jpg
+  # _pages/events
+  - scope:
+      path: "_pages/events"
+    values:
+      classes: wide
+      sidebar:
+        nav: "events"
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash-image-map.png
+  # _pages/teams
+  - scope:
+      path: "_pages/teams"
+    values:
+      layout: team
+      classes: wide
+      sidebar:
+        nav: "teams"
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.40"
+        overlay_image: /assets/images/splash-image-forest.jpg
 
 category_archive:
   type: liquid

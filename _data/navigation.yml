@@ -1,9 +1,57 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: Working groups
+    url: /working-groups/
+  - title: Events
+    url: /events/
+  - title: Resources
+    url: /resources/
+  - title: News
+    url: /blog/
+  - title: Team
+    url: /team/
+  - title: About us
+    url: /scope/
+
+working-groups:
+  - title: Annual meeting
+    url: /annual-meeting/
+  - title: Green computing
+    url: /neuroimaging-research-pipelines-group/
+    children:
+      - title: Carbon tracker toolboxes
+        url: /carbon-tracker-toolboxes/
+  - title: Education and outreach
+    url: /education/
+
+events:
+  - title: 2025
+    children:
+      - title: OHBM 2025
+        url: /ohbm-2025/
+      - title: OHBM Satellite Event
+        url: /ohbm-satellite-event/
+  - title: 2024
+    children:
+      - title: OHBM 2024 Sustainability award
+        url: /ohbm-2024-sustainability-award/
+  - title: 2023
+    children:
+      - title: OHBM 2023
+        url: /ohbm-2023/
+  - title: 2022
+    children:
+      - title: OHBM 2022
+        url: /ohbm-2022/
+  - title: 2021
+    children:
+      - title: OHBM 2021
+        url: /ohbm-2021/
+
+teams:
+  - title: 2025-2026
+    url: /team/
+  - title: 2024-2025
+    url: /team-2024-2025/
+  - title: Past members
+    url: /past-members/
+  

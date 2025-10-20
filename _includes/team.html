@@ -1,0 +1,14 @@
+{% assign row_size = 3 %}
+{% assign team_members = include.team_members %}
+
+{% assign n_members = team_members | size %}
+{% assign n_rows = n_members | divided_by: row_size | floor %}
+
+{% comment %} Divide members into chunks (rows) {% endcomment %}
+{% for i_row in (0..n_rows) %}
+
+{% assign slice_start = i_row | times: row_size %}
+{% assign row_members = team_members | slice: slice_start, row_size %}
+{% include team_row.html row_members=row_members %}
+
+{% endfor %}

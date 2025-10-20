@@ -1,0 +1,157 @@
+Anna Behler:
+  name: "Anna Behler"
+  avatar: "/assets/images/people/anna-behler.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "http://newcastle.edu.au/profile/anna-behler"
+
+Charlotte Rae:
+  name: "Charlotte Rae"
+  avatar: "/assets/images/people/charlotte-rae.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://profiles.sussex.ac.uk/p220408-charlotte-rae"
+
+Daniel Margulies:
+  name: "Daniel Margulies"
+  avatar: "/assets/images/people/daniel-margulies.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://www.neuroconnlab.org/"
+
+Elisa Guma:
+  name: "Elisa Guma"
+  avatar: "/assets/images/people/elisa-guma.jpg"
+  links:
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/elisa-guma-32448a45/"
+
+Elvisha Dhamala:
+  name: "Elvisha Dhamala"
+  avatar: "/assets/images/people/elvisha-dhamala.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://elvisha.com/"
+
+Evelyn Medawar:
+  name: "Evelyn Medawar"
+  avatar: "/assets/images/people/evelyn-medawar.png"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://medawar.netlify.app/"
+
+Lea Michel:
+  name: "Léa Michel"
+  avatar: "/assets/images/people/lea-michel.jpg"
+  links:
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/l%C3%A9a-michel-79397213b/"
+
+Maria Misiura:
+  name: "Maria Misiura"
+  avatar: "/assets/images/people/maria-misiura.png"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?hl=en&user=PqBJhjEAAAAJ&view_op=list_works&sortby=pubdate"
+
+Marie-Eve Hoeppli:
+  name: "Marie-Eve Hoeppli"
+  avatar: "/assets/images/people/marie-eve-hoeppli.jpeg"
+  links:
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/marie-eve-hoeppli-a19341a/"
+
+Michele Veldsman:
+  name: "Michele Veldsman"
+  avatar: "/assets/images/people/michele-veldsman.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://www.neuroscience.ox.ac.uk/research-directory/michele-veldsman"
+  
+Michelle Wang:
+  name: "Michelle Wang"
+  avatar: "/assets/images/people/michelle-wang.png"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://michellewang.github.io"
+  - label: "Bluesky"
+    icon: "fab fa-fw fa-bluesky"
+    url: "https://bsky.app/profile/michellewang.bsky.social"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/michellewang8/"
+
+Niall Duncan:
+  name: "Niall Duncan"
+  avatar: "/assets/images/people/niall-duncan.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://tmu.pure.elsevier.com/en/persons/niall-w-duncan"
+
+Nick Souter:
+  name: "Nick Souter"
+  avatar: "/assets/images/people/nick-souter.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://profiles.sussex.ac.uk/p596400-nick-souter"
+
+Nikhil Bhagwat:
+  name: "Nikhil Bhagwat"
+  avatar: "/assets/images/people/nikhil-bhagwat.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://nikhil153.github.io/"
+
+Peer Heerholz:
+  name: "Peer Heerholz"
+  avatar: "/assets/images/people/peer-heerholz.png"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://peerherholz.github.io/"
+
+Sepideh Sadaghiani:
+  name: "Sepideh Sadaghiani"
+  avatar: "/assets/images/people/sepideh-sadaghiani.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://psychology.illinois.edu/directory/profile/sepideh"
+
+Thomas Hinault:
+  name: "Thomas Hinault"
+  avatar: "/assets/images/people/thomas-hinault.jpg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://thomashinault.wordpress.com/"
+
+Valentina Borghesani:
+  name: "Valentina Borghesani"
+  avatar: "/assets/images/people/valentina-borghesani.jpeg"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://valentina.borghesani.org/"
+
+Winson Yang:
+  name: "Winson Yang"
+  avatar: "/assets/images/people/winson-yang.png"
+  links:
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://winsonfzyang.rbind.io/"

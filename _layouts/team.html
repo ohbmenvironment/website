@@ -1,0 +1,9 @@
+---
+layout: single
+---
+
+{{ page.content }}
+
+{% assign team_members = site.data.teams[page.team_id] %}
+{% include team.html team_members=team_members %}
+
