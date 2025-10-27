@@ -124,6 +124,14 @@ Peer Heerholz:
     icon: "fas fa-fw fa-link"
     url: "https://peerherholz.github.io/"
 
+Ryann Tansey:
+  name: "Ryann Tansey"
+  avatar: "/assets/images/people/ryann-tansey.jpg"
+  links:
+  - label: "Bluesky"
+    icon: "fab fa-fw fa-bluesky"
+    url: "https://bsky.app/profile/ryanntansey.bsky.social"
+
 Sepideh Sadaghiani:
   name: "Sepideh Sadaghiani"
   avatar: "/assets/images/people/sepideh-sadaghiani.jpg"
